@@ -17,8 +17,8 @@ Soy estudiante de la Tecnicatura en Desarrollo de Software y me especializo en Q
 - Quality Control Automation - Egg (2024)
 - Testeador de Software QA - UTN (2022)
 
-![Caty's GitHub stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu_usuario&layout=compact&theme=radical)
+![Caty's GitHub stats](https://github-readme-stats.vercel.app/api?username=catyvazo&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catyvaz&layout=compact&theme=radical)
 
 
 <!--
