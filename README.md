@@ -4,7 +4,7 @@
 Soy estudiante de la Tecnicatura en Desarrollo de Software y me especializo en Quality Assurance y desarrollo backend. Me encanta aprender nuevas tecnologías y participar en proyectos que me permitan desarrollar mis habilidades en Python, testing y bases de datos.
 
 ### Conecta conmigo
-[LinkedIn](www.linkedin.com/in/caty-bustos-vazquez) | [Correo](mailto:catybusvaz2@gmail.com)
+[LinkedIn]([www.linkedin.com/in/caty-bustos-vazquez](https://www.linkedin.com/in/catherine-bustos-vazquez-82479b232)) | [Correo](mailto:catybusvaz2@gmail.com)
 
 ### Tecnologías y Herramientas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
