@@ -1,77 +1,23 @@
-# 👋 ¡Hola! Soy Caty
-### Tester QA y Desarrolladora Backend Junior
+<h1 align="center">Helloo 👋, I'm Caty</h1>
+<h3 align="center">Back-End Software Developer and QA Tester</h3>
 
-Soy estudiante de la Tecnicatura en Desarrollo de Software y me especializo en Quality Assurance y desarrollo backend. Me encanta aprender nuevas tecnologías y participar en proyectos que me permitan desarrollar mis habilidades en Python, testing y bases de datos.
+# 💫 About Me:
 
-### Conecta conmigo
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/catherine-bustos-vazquez-82479b232#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/catherine-bustos-vazquez-82479b232#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![email](./img/email-light.svg)](mailto:catybusvaz2@gmail.com#gh-light-mode-only)
-[![email](./img/email-dark.svg)](mailto:catybusvaz2@gmail.com#gh-dark-mode-only)
+- 🔭 I’m currently working on **a To Do list with TypeScript and React**
 
----
+- 🌱 I’m currently learning **JavaScript, TypeScript, React**
 
-### Tecnologías y Herramientas
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />](https://www.python.org/)
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />](https://www.mysql.com/)
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/docs/Web/HTML)
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/docs/Web/CSS)
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com/)
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />](https://github.com/)
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](https://code.visualstudio.com/)
+- 📫 How to reach me **catybusvaz2@gmail.com**
 
-<br />
-
-### 🎓 Educación
-
-- **Quality Control Automation**  
-  Egg | A distancia  
-  _Agosto 2024 - Actualidad_
-
-- **Curso Teórico-Práctico de QA Testing**  
-  XAcademy - Sandex | A distancia  
-  _Junio 2024 - Octubre 2024_
-
-- **Tecnicatura en Desarrollo del Software**  
-  Instituto Superior Arturo U. Illia | Villa Carlos Paz  
-  _2023 - Actualidad_
-
-- **Testeador de Software - QA Manager**  
-  Universidad Tecnológica Nacional | A distancia  
-  _2022_
-
-- **Diseño Web Responsive - HTML5 y CSS3**  
-  BA Multiplica, Universidad Tecnológica Nacional | A distancia  
-  _2022_
-
-- **BA Multiplica jóvenes x jóvenes**  
-  Universidad Tecnológica Nacional | A distancia  
-  _2022_
-
-- **Lengua Inglesa**  
-  Instituto Walt Whitman | Villa Carlos Paz  
-  _2008 - 2018_
-
----
-
-![Caty's GitHub stats](https://github-readme-stats.vercel.app/api?username=catyvaz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=catyvaz&layout=compact&theme=radical)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/catherine bustos vazquez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="catherine bustos vazquez" height="30" width="40" /></a>
+</p>
 
 
-<!--
-**Catyvaz/Catyvaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=catyvaz&show_icons=true&locale=en&layout=compact" alt="catyvaz" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=catyvaz&show_icons=true&locale=en" alt="catyvaz" /></p>
