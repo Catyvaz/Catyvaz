@@ -1,4 +1,4 @@
-<h1 align="center">Helloo 👋, I'm Caty</h1>
+<h1 align="center">Hello 👋, I'm Caty</h1>
 <h3 align="center">Back-End Software Developer and QA Tester</h3>
 
 # 💫 About Me:
