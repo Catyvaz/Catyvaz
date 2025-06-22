@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **a To Do list with TypeScript and React**
+- 🔭 I’m currently working on **a rental management system with TypeScript and React**
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React**
 
