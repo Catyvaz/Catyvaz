@@ -1,11 +1,11 @@
 <h1 align="center">Hello 👋, I'm Caty</h1>
-<h3 align="center">Back-End Software Developer and QA Tester</h3>
+<h3 align="center">Fullstack Software Developer and QA Tester</h3>
 
 # 💫 About Me:
 
-- 🔭 I’m currently working on **a rental management system with TypeScript and React**
+- 🔭 I’m currently studing **Google Cloud**
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React**
+- 🌱 I’m currently learning **Cloud**
 
 - 📫 How to reach me **catybusvaz2@gmail.com**
 
